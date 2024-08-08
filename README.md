@@ -1,8 +1,8 @@
 # Who-want-s-to-pay-
 Mobile Game Who want's to pay? for Unity 
 
-내기로 사람 정하는 게임입니다.
-  Roulette : n(n>=2)명 중 1명
+내기로 사람 정하는 게임입니다.\n
+  Roulette : n(n>=2)명 중 1명\n
   Slot Machine : n(n>3)명 중 N(N>=1)명 / 미완성, 완성 후 업데이트 예정
 
 Unity Version : 2022.02.19f1 2D
