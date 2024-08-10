@@ -4,6 +4,9 @@ Mobile Game Who want's to pay? for Unity
 사람들끼리 내기에서 n명을 고를때 사용하기 좋은 게임입니다. [ Roulette : n(n>=2)명 중 1명 ] [ Slot Machine : n(n>3)명 중 N(N>=1)명 / 미완성, 완성 후 업데이트 예정 ]
 
 Unity Version : 2022.02.19f1 2D
+
+플레이 영상 
+https://youtu.be/5ltjZreLBw0
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 룰렛 이미지 출처
 <a href="https://www.freepik.com/free-vector/abstract-polygonal-cyber-sphere_1534719.htm#fromView=search&page=1&position=23&uuid=16420bae-99fb-4dc5-9333-52909f56686f">Image by GarryKillian on Freepik</a>
